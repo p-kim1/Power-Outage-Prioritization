@@ -1,0 +1,71 @@
+@RELATION countyData
+
+@ATTRIBUTE population REAL
+@ATTRIBUTE fire_dept REAL
+@ATTRIBUTE hospital REAL
+@ATTRIBUTE powerplant REAL
+@ATTRIBUTE county {Albany_County,Allegany_County,Bronx_County,Broome_County,Cattaraugus_County,Cayuga_County,Chautauqua_County,Chemung_County,Chenango_County,Clinton_County,Columbia_County,Cortland_County,Delaware_County,Dutchess_County,Erie_County,Essex_County,Franklin_County,Fulton_County,Genesee_County,Greene_County,Hamilton_County,Herkimer_County,Jefferson_County,Kings_County,Lewis_County,Livingston_County,Madison_County,Monroe_County,Montgomery_County,Nassau_County,New_York_County,Niagara_County,Oneida_County,Onondaga_County,Ontario_County,Orange_County,Orleans_County,Oswego_County,Otsego_County,Putnam_County,Queens_County,Rensselaer_County,Richmond_County,Rockland_County,Saratoga_County,Schenectady_County,Schoharie_County,Schuyler_County,Seneca_County,St._Lawrence_County,Steuben_County,Suffolk_County,Sullivan_County,Tioga_County,Tompkins_County,Ulster_County,Warren_County,Washington_County,Wayne_County,Westchester_County,Wyoming_County,Yates_County,county}
+
+@DATA
+304204,39,4,12,Albany_County
+48946,28,2,4,Allegany_County
+1385108,0,7,6,Bronx_County
+200600,35,2,3,Broome_County
+80317,36,1,2,Cattaraugus_County
+80026,29,1,5,Cayuga_County
+134905,42,5,6,Chautauqua_County
+88830,21,2,1,Chemung_County
+50477,20,1,0,Chenango_County
+82128,21,1,15,Clinton_County
+63096,31,1,1,Columbia_County
+49336,12,1,0,Cortland_County
+47980,29,4,0,Delaware_County
+297488,37,3,4,Dutchess_County
+919040,91,10,7,Erie_County
+39370,24,2,4,Essex_County
+51599,19,2,9,Franklin_County
+55531,17,1,3,Fulton_County
+60079,18,1,3,Genesee_County
+49221,27,0,4,Greene_County
+4836,11,0,0,Hamilton_County
+64519,20,1,9,Herkimer_County
+116229,44,3,19,Jefferson_County
+2504700,0,14,10,Kings_County
+27087,14,1,24,Lewis_County
+65393,19,1,0,Livingston_County
+73442,23,2,4,Madison_County
+744344,36,5,11,Monroe_County
+50219,19,2,0,Montgomery_County
+1339532,70,12,17,Nassau_County
+1585873,1,15,11,New_York_County
+216469,32,5,10,Niagara_County
+234878,50,3,12,Oneida_County
+467026,53,4,7,Onondaga_County
+107931,27,3,6,Ontario_County
+372813,52,5,8,Orange_County
+42883,12,1,2,Orleans_County
+122109,30,1,18,Oswego_County
+62259,30,2,2,Otsego_County
+99710,13,1,1,Putnam_County
+2230722,1,9,14,Queens_County
+159429,42,2,9,Rensselaer_County
+468730,0,2,3,Richmond_County
+311687,26,4,5,Rockland_County
+111944,41,5,38,St._Lawrence_County
+219607,33,1,18,Saratoga_County
+154727,22,2,0,Schenectady_County
+32749,17,1,1,Schoharie_County
+18343,9,1,0,Schuyler_County
+35251,13,0,1,Seneca_County
+98990,44,3,9,Steuben_County
+1493350,108,11,40,Suffolk_County
+77547,40,1,8,Sullivan_County
+51125,15,0,0,Tioga_County
+101564,17,1,7,Tompkins_County
+182493,51,3,4,Ulster_County
+65707,23,1,3,Warren_County
+63216,25,0,5,Washington_County
+93772,29,1,2,Wayne_County
+949113,57,14,5,Westchester_County
+42155,18,1,8,Wyoming_County
+25348,10,1,1,Yates_County
